@@ -462,8 +462,8 @@ button {
 .modal-clos-btn:hover,
 .modal-clos-btn:focus {
     background-color: #404BBF;
-    fill: #ffffff;
     border: none;
+    fill: #ffffff;
 }
 
 .review-form-discriptoin {
