@@ -462,7 +462,7 @@ button {
 .modal-clos-btn:hover,
 .modal-clos-btn:focus {
     background-color: #404BBF;
-    fill: white;
+    fill: #ffffff;
     border: none;
 }
 
